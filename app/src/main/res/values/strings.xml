@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SWL</string>
+    <string name="mode_default">Mode: Default</string>
+    <string name="mode_adding">Mode: Adding</string>
+    <string name="mode_removing">Mode: Removing</string>
+    <string name="deleted">Deleted: %s</string>
+
+    <string name="columns">Columns</string>
+    <string name="rows">Rows</string>
+    <string name="margin">Margin</string>
+    <string name="dotSize">Dot Size</string>
+    <string name="lineSize">Line Size</string>
+    <string name="color">Color</string>
+
+    <string name="defaultColor" translatable="false">#bb2225</string>
+    <string name="restartApp">Restart App</string>
+</resources>
